@@ -5,12 +5,9 @@ import Donate from './pages/donation';
 import Contact from './pages/contact';
 import Nav from './components/nav';
 import Events from './pages/events'; 
-// import Hero from './components/hero'
-// import About from './components/about';
-// import Card from './components/card';
 import Footer from './components/footer';
-// import 'bootstrap/dist/css/bootstrap.min.css';
-// import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function App() {
   return (
